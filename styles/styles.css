@@ -1,1 +1,32 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px , soild red;
+    padding: 10px;
+}
+.heading{
+  background-image: url(../photos/giphy.gif);
 
+}
+.name{
+  color: white;
+  font-family: 'Cinzel Decorative', cursive;
+}
+.lead{
+  color: white;
+  font-family: 'Cinzel Decorative', cursive;
+
+}
+.parallax {
+    /* The image used */
+    background-image: url("../img_0440.JPG");
+
+    /* Set a specific height */
+    height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
