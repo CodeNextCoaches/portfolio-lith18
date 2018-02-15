@@ -15,18 +15,7 @@
 .lead{
   color: white;
   font-family: 'Cinzel Decorative', cursive;
-
 }
-.parallax {
-    /* The image used */
-    background-image: url("../img_0440.JPG");
-
-    /* Set a specific height */
-    height: 500px;
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+.profile{
+  border-radius: 50%;
+}
